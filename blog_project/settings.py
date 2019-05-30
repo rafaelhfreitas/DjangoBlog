@@ -25,7 +25,7 @@ SECRET_KEY = '%btwdv+#(8#n3!xo--=_(-$^e%)&1h%i8^tm#5^5%40*!jkfu2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
